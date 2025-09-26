@@ -385,7 +385,6 @@
 					</ChildItems>
 				</Page>
 				<Page name="ГруппаТочкаОбменаОчередь" id="81">
-					<Visible>false</Visible>
 					<Title>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
