@@ -200,8 +200,6 @@
 			<CommonModule>ЮТЧитательСлужебный</CommonModule>
 			<CommonModule>ЮТЧитательСлужебныйВызовСервера</CommonModule>
 			<CommonModule>ЮТЧитательСлужебныйКлиент</CommonModule>
-			<CommonModule>ОМ_ПервыйТест</CommonModule>
-			<CommonModule>ОМ_API_ОписанияТоваров</CommonModule>
 			<CommonModule>OM_ПриходРасход</CommonModule>
 			<DataProcessor>ЮТHTTPServiceRequest</DataProcessor>
 			<DataProcessor>ЮТHTTPОтвет</DataProcessor>
